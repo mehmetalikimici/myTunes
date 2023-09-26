@@ -7,4 +7,5 @@
   <li>Design is responsive.</li>
 </ul>
 <h2>Screen</h2>
-![gif](https://github.com/mehmetalikimici/myTunes/assets/115737497/272503bc-1f1f-49da-92ea-18e4bf2614f3)
+
+![mytunes](https://github.com/mehmetalikimici/myTunes/assets/115737497/00b1a926-3995-4bab-8390-ee46a2f885ff)
